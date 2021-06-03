@@ -5,3 +5,5 @@
 /.vs
 /packages/AutoMapper.10.1.1
 /packages
+/bin/Debug
+/obj/Debug
